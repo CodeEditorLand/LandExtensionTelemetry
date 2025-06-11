@@ -27,13 +27,13 @@
   },
   "devDependencies": {
     "@types/mocha": "^10.0.10",
-    "@types/node": "^22.15.30",
+    "@types/node": "^24.0.0",
     "@types/sinon": "^17.0.4",
     "@types/vscode": "^1.100.0",
-    "@typescript-eslint/eslint-plugin": "^8.33.1",
-    "@typescript-eslint/parser": "^8.33.1",
+    "@typescript-eslint/eslint-plugin": "^8.34.0",
+    "@typescript-eslint/parser": "^8.34.0",
     "eslint": "^9.28.0",
-    "mocha": "^11.5.0",
+    "mocha": "^11.6.0",
     "sinon": "^20.0.0",
     "typescript": "^5.8.3",
     "user-agent-data-types": "^0.4.2"
